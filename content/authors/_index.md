@@ -34,15 +34,18 @@ interests:
 # Education to show in About widget
 education:
   courses:
+    - course: PostDoc in Theoretical Physics
+      institution: Pontificia Universidad Católica de Valparaíso
+      year: 2017-2020
     - course: PhD in Theoretical Physics
       institution: Eastern Mediterranean University
-      year: 2016
+      year: 2013-2016
     - course: MSc in Physics
       institution: Eastern Mediterranean University
-      year: 2013
+      year: 2011-2013
     - course: BSc in Physics
       institution: İzmir Institute of Technology
-      year: 2010
+      year: 2006-2010
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
