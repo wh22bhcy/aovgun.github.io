@@ -39,21 +39,42 @@ interests:
   - Complexity
   
 
-# Education to show in About widget
+# Positions/Education to show in About widget
 education:
   courses:
-    - course: PostDoc in Theoretical Physics
+    - course: Research Visitor (July/August 2022) Prof. Durmus Demir
+      institution: Sabanci University
+      year: 2022-2023
+    - course: PITP2018 School (July 2018)
+      institution: The Institute for Advanced Study in Princeton
+      year: 2018       
+    - course: Research Visitor (April/May-2018) Prof. Leonard Susskind
+      institution: Stanford Institute for Theoretical Physics
+      year: 2018    
+    - course: Research Visitor (April-2018) Prof. Douglas Singleton
+      institution: California State University Fresno
+      year: 2018    
+    - course: Research Visitor (Jan/Feb-2018)
+      institution: Perimeter Institute for Theoretical Physics
+      year: 2018    
+    - course: Research Visitor (Jan/Feb-2018) Prof. Robert B. Mann
+      institution: University of Waterloo
+      year: 2018
+    - course: Short-term Visitor (Oct-2017)
+      institution: CERN Theory Division
+      year: 2017              
+    - course: Postdoctoral Researcher (FONDECYT) (2017-2020) with Prof. Joel SAAVEDRA
       institution: Pontificia Universidad Católica de Valparaíso
       year: 2017-2020
-    - course: PhD in Theoretical Physics
+    - course: PhD in Theoretical Physics with Prof. Mustafa HALILSOY
       institution: Eastern Mediterranean University
       year: 2013-2016
-    - course: MSc in Physics
+    - course: MSc in Physics with Prof. Mustafa HALILSOY
       institution: Eastern Mediterranean University
     - course: Visiting PhD Student in Astroparticle Physics
       institution: University of Southampton
       year: 2010-2011
-    - course: BSc in Physics
+    - course: BSc in Physics with Prof. DURMUS DEMIR
       institution: İzmir Institute of Technology
       year: 2006-2010
 
