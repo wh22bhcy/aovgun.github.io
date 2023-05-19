@@ -42,7 +42,9 @@ education:
       year: 2013-2016
     - course: MSc in Physics
       institution: Eastern Mediterranean University
-      year: 2011-2013
+    - course: Visiting PhD Student in Astroparticle Physics
+      institution: University of Southampton
+      year: 2010-2011
     - course: BSc in Physics
       institution: İzmir Institute of Technology
       year: 2006-2010
