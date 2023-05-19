@@ -225,18 +225,11 @@ sections:
       office_hours:
         - 'Monday-Friday 08:00 to 17:00'
       contact_links:
-        - icon: twitter
+        - icon: gmail
           icon_pack: fab
           name: DM Me
-          link: 'https://twitter.com/aovgun'
-        - icon: skype
-          icon_pack: fab
-          name: Skype Me
-          link: 'skype:aovgun3?call'
-        - icon: video
-          icon_pack: fas
-          name: Zoom Me
-          link: 'https://zoom.com'
+          link: 'ali.ovgun@emu.edu.tr'
+
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
