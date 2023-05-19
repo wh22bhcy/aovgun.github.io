@@ -22,14 +22,22 @@ organizations:
     url: https://www.emu.edu.tr/en
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include modified gravity theories, black holes, Wormholes, Cosmology, Gravitational Lensing, Geodesics, Shadow, Hawking Radiation, Greybody factor, Quasinormal modes, Complexity.
+bio: My research is focused on understanding and constraining modified gravity theories using various properties of black holes and cosmological evolution. I have contributed to various analysis methods, which are now amongst the most widely used ones for calculating the Hawking radiation, gravitational lensing, and shadow cast of black holes. I have been studying various aspects of general relativity in relation to black hole properties, wormholes, compact stars, Hawking radiation, and cosmological inflation. I am among World’s Top 2% Scientists in the Stanford University 2020 & 2021 Releases Lists.
+
 
 # Interests to show in About widget
 interests:
+  - Modified Gravity Theories
   - Wormholes
   - Black holes
   - Cosmology
-  - Modified Gravity Theories
+  -Gravitational Lensing
+  - Shadow
+  -Hawking Radiation
+  -Greybody factor
+  -Quasinormal modes
+  -Complexity
+  
 
 # Education to show in About widget
 education:
