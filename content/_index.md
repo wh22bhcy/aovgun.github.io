@@ -213,7 +213,7 @@ sections:
       # Contact (add or remove contact options as necessary)
       email: ali.ovgun@emu.edu.tr
       phone: +90 392 630 1376
-      appointment_url: 'https://calendly.com'
+      appointment_url: 'https://calendly.com/aovgun/meeting'
       address:
         street: Albert Einstein Street, Faculty of Arts and Sciences, Department of Physics, Eastern Mediterranean University, Gazimağusa
         city: Mersin
@@ -225,10 +225,6 @@ sections:
       office_hours:
         - 'Monday-Friday 08:00 to 17:00'
       contact_links:
-        - icon: gmail
-          icon_pack: fab
-          name: DM Me
-          link: 'ali.ovgun@emu.edu.tr'
 
       # Automatically link email and phone or display as text?
       autolink: true
