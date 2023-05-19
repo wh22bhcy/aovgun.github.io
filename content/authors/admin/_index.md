@@ -4,7 +4,7 @@ title: Assoc. Prof. Dr. Ali ÖVGÜN
 
 # Full name (for SEO)
 first_name: Ali
-last_name: Övgün
+last_name: Övgün 
 
 # Status emoji
 status:
