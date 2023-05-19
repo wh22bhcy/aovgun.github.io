@@ -40,7 +40,7 @@ interests:
   
 
 # Education to show in About widget
-Positions/Education:
+education:
   courses:
     - course: PostDoc in Theoretical Physics
       institution: Pontificia Universidad Católica de Valparaíso
