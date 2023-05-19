@@ -226,16 +226,4 @@ sections:
         - 'Monday-Friday 08:00 to 17:00'
       contact_links:
 
-      # Automatically link email and phone or display as text?
-      autolink: true
-      # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
-    design:
-      columns: '2'
 ---
