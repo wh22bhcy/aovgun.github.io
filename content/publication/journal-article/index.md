@@ -1,34 +1,76 @@
-# TOTAL 134 WOS SCI-INDEX PUBLICATIONS
+---
+title: "An example journal article"
+authors:
+- admin
+- Robert Ford
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
+date: "2015-09-01T00:00:00Z"
+doi: ""
 
-Hover over the badge to see what it provides.
+# Schedule page publish date (NOT publication's date).
+publishDate: "2017-01-01T00:00:00Z"
 
-YEAR / # PAPERS
-2014 = 2
-2015 = 4
-2016 = 9
-2017 = 20
-2018 = 18
-2019 = 16
-2020 = 18
-2021 = 9
-2022 = 21
-2023 = 17
+# Publication type.
+# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+# 7 = Thesis; 8 = Patent
+publication_types: ["2"]
 
-SINGLE AUTHOR PAPERS (11)
+# Publication name and optional abbreviated publication name.
+publication: "*Journal of Source Themes, 1*(1)"
+publication_short: ""
 
-1. Weak gravitational lensing of regular black holes with cosmic strings using the Gauss-Bonnet theorem, Physical Review D 99, 104075 (2019), arXiv:1902.04411.
-2. Light deflection by Damour-Solodukhin wormholes and Gauss-Bonnet theorem, Physical Review D 98, 044033 (2018), arXiv:1805.06296.
-3. Black hole with confining electric potential in scalar-tensor description of regularized 4-dimensional Einstein-Gauss-Bonnet gravity, Physics Letters B 820, 136517 (2021), arXiv:2105.05035.
-4. Inflation and Acceleration of the Universe by Nonlinear Magnetic Monopole Fields, The European Physical Journal C 77:105 (2017), arXiv:1604.01837.
-5. Evolving topologically deformed wormholes supported in the dark matter halo, The European Physical Journal Plus 136: 987 (2021), arXiv:1803.04256.
-6. Rotating Thin-Shell Wormhole, The European Physical Journal Plus 131: 389 (2016), arXiv:1604.08477.
-7. Entangled Particles Tunneling From a Schwarzchild Black Hole immersed in an Electromagnetic Universe with GUP, International Journal of Theoretical Physics 55: 2919-2927 (2016), arXiv:1508.04100.
-8. P-V criticality of a specific black hole in f(R) gravity coupled with Yang-Mills field, Advances in High Energy Physics 2018, 8153721, (2018), arXiv:1710.06795.
-9. The Bekenstein-Hawking Corpuscular Cascading from the Backreacted Black Hole, Advances in High Energy Physics 2017, 1573904, (2017), arXiv:1609.07804.
-10. Deflection angle of photon through dark matter by black holes and wormholes using the Gauss-Bonnet theorem, Universe 5(5), 115 (2019) (invited): Special Issue ”Gravitational Lensing and Optical Geometry: A Centennial Perspective” arXiv:1806.05549.
-11. Weak Deflection Angle of Black-bounce Traversable Wormholes Using Gauss-Bonnet Theorem in the Dark Matter Medium, Turkish Journal of Physics 44, 465-471 (2020) (invited), arXiv:2011.04423
+abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
-2023
-[1] Black hole in quantum wave dark matter, Fortschritte der Physik-Progress of Physics 71, 2200164 (2023), arXiv:2210.00523 Jointly with Reggie C. Pantig.
-[2] Probing hairy black holes caused by gravitational decoupling using quasinormal modes and greybody bounds, Physical Review D (2023), arXiv:2203.11551 with Yi Yang, Dong Liu, Zheng-Wen Long, Zhaoyi Xu.
-[3] Non-linear Electrodynamics in Blandford-Znajek Energy Extraction,
+# Summary. An optional shortened abstract.
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+
+tags:
+- Source Themes
+featured: false
+
+# links:
+# - name: ""
+#   url: ""
+url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+image:
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  focal_point: ""
+  preview_only: false
+
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+projects: []
+
+# Slides (optional).
+#   Associate this publication with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides: "example"` references `content/slides/example/index.md`.
+#   Otherwise, set `slides: ""`.
+slides: example
+---
+
+{{% callout note %}}
+Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+{{% /callout %}}
+
+{{% callout note %}}
+Create your slides in Markdown - click the *Slides* button to check out the example.
+{{% /callout %}}
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
