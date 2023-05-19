@@ -15,18 +15,26 @@ sections:
     content:
       title: Skills
       items:
-        - name: R
-          description: 90%
+        - name: Maple Soft
+          description: 100%
           icon: r-project
           icon_pack: fab
-        - name: Statistics
+        - name: Latex
           description: 100%
           icon: chart-line
           icon_pack: fas
-        - name: Photography
-          description: 10%
+        - name: Mathematica
+          description: 100%
           icon: camera-retro
           icon_pack: fas
+        - name: Python
+          description: 80%
+          icon: camera-retro
+          icon_pack: fas  
+        - name: SageMath
+          description: 80%
+          icon: camera-retro
+          icon_pack: fas      
   - block: experience
     content:
       title: Experience
