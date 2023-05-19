@@ -61,9 +61,6 @@ social:
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.com/citations?hl=tr&user=aG1SiFQAAAAJ&view_op=list_works&sortby=pubdate
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/aovgun/
@@ -72,7 +69,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: https://physics.emu.edu.tr/Pages/stafffile.aspx?sid=295&ft=.pdf&n=ali-ovgun
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ali.ovgun@emu.edu.tr ''
@@ -81,5 +78,5 @@ email: ali.ovgun@emu.edu.tr ''
 highlight_name: true
 ---
 
-Alice Wu is an associate professor of theoretical physics at the EMU. His research interests include modified gravity theories, black holes, Wormholes, Cosmology, Gravitational Lensing, Geodesics, Shadow, Hawking Radiation, Greybody factor, Quasinormal modes, Complexity.
+Assoc. Prof. Dr. A. Övgün is an associate professor of theoretical physics at the EMU. His research interests include modified gravity theories, black holes, Wormholes, Cosmology, Gravitational Lensing, Geodesics, Shadow, Hawking Radiation, Greybody factor, Quasinormal modes, Complexity.
 {style="text-align: justify;"}
