@@ -7,8 +7,8 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Publications(https://arxiv.org/a/ovgun_a_2.html)
-    url: '#featured'
+  - name: Publications
+    url: 'https://arxiv.org/a/ovgun_a_2.html'
     weight: 20
   - name: Contact
     url: '#contact'
