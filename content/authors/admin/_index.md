@@ -92,8 +92,8 @@ social:
     label: Follow me on Twitter
     display:
       header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
+  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: ai
     link: https://scholar.google.com/citations?hl=tr&user=aG1SiFQAAAAJ&view_op=list_works&sortby=pubdate
   - icon: linkedin
     icon_pack: fab
@@ -117,6 +117,8 @@ Ali Övgün is an Associate Professor of Physics at Eastern Mediterranean Univer
 His research is focused on understanding and constraining modified gravity theories using various properties of black holes and cosmological evolution. He has contributed to various analysis methods, which are now amongst the most widely used ones for calculating the Hawking radiation, gravitational lensing, and shadow cast of black holes. He has been studying various aspects of general relativity in relation to black hole properties, wormholes, compact stars, Hawking radiation, and cosmological inflation. These implications often follow from the structure of extra-dimensional geometries, of which there are many possibilities. Övgün’s research therefore requires importing techniques from mathematics and computer science. He is among World’s Top 2% Scientists in the Stanford University 2020 & 2021 Releases Lists.
 
 {style="text-align: justify;"}
+
+
 
 
 
