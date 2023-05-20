@@ -8,7 +8,7 @@ main:
     url: '#about'
     weight: 10
   - name: Publications
-    url: 'https://arxiv.org/a/ovgun_a_2.html'
+    url: 'https://aovgun.weebly.com/publications.html'
     weight: 20
   - name: Press/Media
     url: 'https://aovgun.weebly.com/news.html'
