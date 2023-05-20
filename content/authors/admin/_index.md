@@ -95,6 +95,9 @@ social:
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
     link: https://scholar.google.com/citations?hl=tr&user=aG1SiFQAAAAJ&view_op=list_works&sortby=pubdate
+  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: fas
+    link: https://arxiv.org/a/ovgun_a_2.html  
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/aovgun/
