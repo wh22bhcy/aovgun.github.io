@@ -10,31 +10,7 @@ sections:
     content:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
-      username: admin
-  - block: features
-    content:
-      title: Skills
-      items:
-        - name: Maple Soft
-          description: 100%
-          icon: r-project
-          icon_pack: fab
-        - name: Latex
-          description: 100%
-          icon: chart-line
-          icon_pack: fas
-        - name: Mathematica
-          description: 100%
-          icon: camera-retro
-          icon_pack: fas
-        - name: Python
-          description: 80%
-          icon: camera-retro
-          icon_pack: fas  
-        - name: SageMath
-          description: 80%
-          icon: camera-retro
-          icon_pack: fas      
+      username: admin  
   - block: experience
     content:
       title: Experience
