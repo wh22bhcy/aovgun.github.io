@@ -10,9 +10,18 @@ main:
   - name: Publications
     url: 'https://arxiv.org/a/ovgun_a_2.html'
     weight: 20
+  - name: Press/Media
+    url: 'https://aovgun.weebly.com/news.html'
+    weight: 30   
+  - name: Photos
+    url: 'https://aovgun.weebly.com/photos.html'
+    weight: 40  
+  - name: Awards
+    url: 'https://aovgun.weebly.com'
+    weight: 50   
   - name: Contact
     url: '#contact'
-    weight: 30
+    weight: 60
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
