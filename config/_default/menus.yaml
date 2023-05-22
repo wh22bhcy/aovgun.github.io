@@ -17,7 +17,7 @@ main:
     url: 'https://aovgun.weebly.com/photos.html'
     weight: 40  
   - name: Awards
-    url: 'https://aovgun.weebly.com'
+    url: 'https://aovgun.weebly.com/awards.html'
     weight: 50   
   - name: Teaching
     url: 'https://aovgun.weebly.com/teaching.html'
